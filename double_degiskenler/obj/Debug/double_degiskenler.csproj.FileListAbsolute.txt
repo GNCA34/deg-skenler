@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\bin\Debug\double_degiskenler.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\bin\Debug\double_degiskenler.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\bin\Debug\double_degiskenler.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\double_degiskenler\obj\Debug\double_degiskenler.pdb

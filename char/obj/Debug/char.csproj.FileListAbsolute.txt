@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\bin\Debug\@char.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\bin\Debug\@char.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\bin\Debug\@char.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\char.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\char.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\char.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\char.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\char.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\@char.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\char\obj\Debug\@char.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\bin\Debug\degisken_int.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\bin\Debug\degisken_int.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\bin\Debug\degisken_int.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\degisken_int\obj\Debug\degisken_int.pdb
